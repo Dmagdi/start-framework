@@ -1,0 +1,13 @@
+section {
+    background-color: #00DFC0;
+    height: 100vh;
+}
+
+.line div {
+    height: 4px;
+    width: 80px;
+}
+
+img {
+    width: 250px;
+}
